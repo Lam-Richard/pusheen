@@ -1,0 +1,8 @@
+body {
+  font-family: Helvetica;
+}
+
+.Tile:hover {
+  opacity: 0.3;
+  cursor: pointer;
+}
